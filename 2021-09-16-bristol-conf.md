@@ -8,7 +8,7 @@ comments: false
 ---
 
 **Bristol Conference, 16 September 2021**
-**Niccolò N. Cappelletto, Estelle Guéville and David J. Wrisley**
+**Niccolò N. Cappelletto, Estelle Guéville and David Joseph Wrisley**
 
 *Keywords:* Handwritten Text Recognition (HTR); medieval Latin Bibles; Paris Bibles; pasts of digitization; digital humanities; fragmentology
 
@@ -56,6 +56,6 @@ You can also consult the bibliography of the project on [Zotero](https://www.zot
 
 ### **Suggested citation**
 
-Cappelletto, Niccolò Acram, Guéville, Estelle, and Wrisley, David Joseph. (16 September 2021). [Abstract - Combining Digital Fragments of Medieval Manuscripts for Creating Scribal Profiles](https://parisbible.github.io/2022-10-12-bristol-conf/). *Paris Bible Project*.
+Cappelletto, Niccolò Acram, Guéville, Estelle, and Wrisley, David Joseph. (16 September 2021). [Abstract - Combining Digital Fragments of Medieval Manuscripts for Creating Scribal Profiles](https://parisbible.github.io/2022-10-12-bristol-conf/). *Paris Bible Project*. https://doi.org/10.5281/zenodo.8040633
 
 This post is published with a [CC BY-SA-NC 4.0 International license](https://creativecommons.org/licenses/by-nc-sa/4.0/).

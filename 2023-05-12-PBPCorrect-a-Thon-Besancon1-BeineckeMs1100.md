@@ -91,6 +91,6 @@ Gauri Bhagwat, Alice Fournier and Robert Lloyd.
 
 ## Suggested citation
 
-Bhagwat, Gauri, Fournier, Alice and Lloyd, Robert. (12 May 2023). PBP Correct-a-thon Besançon: Scribal Differences and Abbreviation Ambiguities in 13th-Century Beinecke MS 1100. *Paris Bible Project.* 
+Bhagwat, Gauri, Fournier, Alice and Lloyd, Robert. (12 May 2023). PBP Correct-a-thon Besançon: Scribal Differences and Abbreviation Ambiguities in 13th-Century Beinecke MS 1100. *Paris Bible Project.* https://doi.org/10.5281/zenodo.8040633
 
 This post is published with a [CC BY-SA-NC 4.0 International license](https://creativecommons.org/licenses/by-nc-sa/4.0/).
