@@ -1,0 +1,12 @@
+cff-version: 1.1.0
+message: "If you reuse these blog posts, please cite them as below, along with any other authors of the posts."
+authors:
+  - family-names: Wrisley
+    given-names: David Joseph
+    orcid: https://orcid.org/0000-0002-0355-1487
+  - family-names: Guéville
+    given-names: Estelle
+    orcid: https://orcid.org/0000-0003-2603-1051
+title: parisbible/PBP-blog-posts: v1.0.1
+version: v1.0.1
+date-released: 2023-06-14
